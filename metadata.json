@@ -1,0 +1,12 @@
+{
+  "name": "Remix: LingoBuddy",
+  "description": "A real-time AI language learning partner for practicing conversation in any language.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Conversational Partner",
+    "Real-time Feedback",
+    "Multi-language Support"
+  ]
+}
